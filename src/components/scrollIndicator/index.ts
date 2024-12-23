@@ -1,1 +1,1 @@
-import { default as ScrollIndicator } from "./scrollIndicator"
+export { default as ScrollIndicator } from "./scrollIndicator"

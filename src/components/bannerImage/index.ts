@@ -1,1 +1,1 @@
-import { default as BannerImage } from "./bannerImage"
+export { default as BannerImage } from "./bannerImage"

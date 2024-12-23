@@ -4,7 +4,6 @@ import {
   FaHtml5,
   FaCss3Alt,
   FaWordpress,
-  FaNodeJs,
   FaPhp,
   FaFigma,
   FaGithub,

@@ -18,7 +18,7 @@ const GetInTouchSection = () => {
       >
         <h2 className="text-4xl font-bold mb-8 text-support">Get In touch</h2>
         <div className='mb-10 text-xl'>
-          Interested in working together? Let's connect and create something amazing.
+          Interested in working together? Let&apos;s connect and create something amazing.
         </div>
         <SocialList />
       </motion.div>

@@ -1,1 +1,1 @@
-import { default as SocialList } from "./socialList"
+export { default as SocialList } from "./socialList"

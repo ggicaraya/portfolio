@@ -12,7 +12,7 @@ interface BannerImageProps {
   children?: ReactNode
 }
 
-const BannerText: React.FC<BannerImageProps> = ({ heading, overline, tagline, description, children }) => {
+const BannerText: React.FC<BannerImageProps> = ({ heading, overline, tagline, description }) => {
   return (
     <div className="max-w-7xl mx-auto relative w-full px-6 md:px-20">
       <motion.div
