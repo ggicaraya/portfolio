@@ -1,0 +1,1 @@
+import { default as BannerImage } from "./bannerText"
